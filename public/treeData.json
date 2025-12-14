@@ -1,0 +1,130 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "The Snake Plant, also known as Sansevieria or Mother-in-Law’s Tongue, is one of the most resilient houseplants you can bring into your home. It thrives in a wide variety of indoor environments and requires minimal care, making it a perfect choice for beginners or busy plant lovers. This plant is widely recognized for its exceptional air-purifying qualities, helping reduce toxins such as formaldehyde and benzene. Its tall, upright leaves have a striking green color with yellow or light-green variegation, adding a modern look to any living room, office, or bedroom. Snake Plants tolerate low light, bright light, and even neglect—needing water only when the soil becomes dry. Because it survives well in tight spaces and grows slowly, it’s an ideal plant for small apartments or desks. Beyond aesthetics, it also contributes to improved indoor air quality, especially at night, as it continues releasing oxygen in the dark. This combination of resilience, beauty, and health benefits makes the Snake Plant a favorite choice for plant enthusiasts across the world.",
+    "image": "https://i.pinimg.com/736x/51/8b/ff/518bff6c0ce9c7a2dcf3649523da7388.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Monstera Deliciosa",
+    "category": "Indoor Decorative",
+    "price": 32,
+    "rating": 4.9,
+    "availableStock": 12,
+    "careLevel": "Medium",
+    "description": "Monstera Deliciosa, often called the Swiss Cheese Plant, is a stunning tropical houseplant known for its large glossy leaves with natural holes and splits. These iconic leaves bring a bold and exotic feel to any interior space. Originating from Central American rainforests, it loves bright, indirect light and slightly moist soil. The plant grows quickly in the right conditions, developing dramatic foliage that can transform the look of a room. Its impressive size and vibrant green color make it a popular choice for living rooms, study areas, and stylish office corners. Monstera also helps improve air quality by filtering harmful indoor toxins. With proper support such as a moss pole, it can climb and create an even more elegant vertical display. Although it prefers humidity, it adapts well to typical indoor environments. With only occasional watering and wiping of its leaves, this plant stays healthy and vibrant. Its combination of beauty, low maintenance, and decorative appeal has made Monstera Deliciosa one of today's trendiest houseplants.",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Aloe Vera",
+    "category": "Medicinal",
+    "price": 14,
+    "rating": 4.7,
+    "availableStock": 20,
+    "careLevel": "Easy",
+    "description": "Aloe Vera is a classic household plant valued for both its beauty and its wide range of natural healing benefits. Known for its thick, fleshy leaves filled with soothing gel, Aloe has been used for centuries for skincare and health remedies. It is incredibly easy to care for, thriving in bright light and needing minimal watering. Its drought tolerance makes it ideal for warm and dry indoor environments. The gel inside the leaves is often used to treat burns, moisturize skin, and reduce irritation. In addition to its medicinal qualities, Aloe Vera is a hardy decorative plant that brings a refreshing green touch to desks, shelves, and windowsills. It grows best when placed in well-drained soil and watered only when completely dry, preventing root rot. Even in small pots, it continues to grow steadily and can produce offsets that you can propagate into new plants. With its unique structure, practical benefits, and effortless maintenance, Aloe Vera is a must-have plant for any indoor gardening enthusiast.",
+    "image": "https://images.unsplash.com/photo-1587502536263-9293c832e23d",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 4,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 22,
+    "rating": 4.8,
+    "availableStock": 17,
+    "careLevel": "Easy",
+    "description": "The ZZ Plant, or Zamioculcas zamiifolia, is famous for being nearly indestructible. It features smooth, glossy, dark-green leaves that reflect light beautifully and add a luxurious feel to any space. This plant thrives in extremely low-light conditions, making it perfect for darker rooms, office corners, or areas without windows. ZZ Plants require very little watering—sometimes only once every three to four weeks—because their rhizomes store water. Their upright growth pattern makes them visually appealing and suitable for modern interiors. In addition to being visually striking, ZZ Plants are effective natural air purifiers, filtering common indoor pollutants and improving air quality. The plant grows slowly but steadily, requiring almost no maintenance beyond occasional dusting. Its resilience against neglect, pests, and inconsistent watering makes it one of the easiest indoor plants you can own. Whether you’re a new plant parent or someone looking for a low-maintenance decorative piece, the ZZ Plant is an excellent, long-lasting choice.",
+    "image": "https://images.unsplash.com/photo-1614594975525-058d7c5f3ba2",
+    "providerName": "UrbanGreen Studio"
+  },
+
+  {
+    "plantId": 5,
+    "plantName": "Peace Lily",
+    "category": "Flowering",
+    "price": 25,
+    "rating": 4.9,
+    "availableStock": 10,
+    "careLevel": "Medium",
+    "description": "The Peace Lily is one of the most elegant indoor flowering plants known for its glossy green leaves and striking white blooms. It symbolizes purity, peace, and calm, making it a popular choice for homes and workplaces. Peace Lilies thrive in low to medium light and prefer evenly moist soil, making them suitable for indoor environments where indirect sunlight is common. They are also renowned for their air-purifying capabilities, effectively removing toxins such as ammonia and formaldehyde. The plant blooms periodically throughout the year, producing its signature white spathes that brighten any room. Peace Lilies respond dramatically to underwatering by drooping, but bounce back quickly once watered. This makes them easy to care for, even for beginners. Along with its beauty, the plant creates a soothing atmosphere and enhances interior aesthetics. Whether placed on a table, shelf, or office desk, a Peace Lily always brings elegance and natural charm.",
+    "image": "https://images.unsplash.com/photo-1587502536958-6463a431a0c4",
+    "providerName": "UrbanGreen Studio"
+  },
+
+  {
+    "plantId": 6,
+    "plantName": "Areca Palm",
+    "category": "Indoor Tree",
+    "price": 40,
+    "rating": 4.8,
+    "availableStock": 8,
+    "careLevel": "Medium",
+    "description": "The Areca Palm is a popular indoor palm tree known for its soft, feathery fronds and gentle tropical appearance. It creates a refreshing, natural atmosphere in homes and offices while also functioning as an excellent air purifier. Areca Palms prefer bright, indirect sunlight and regular watering, keeping the soil lightly moist but never soggy. The plant grows into a full, lush shape that makes it ideal for filling empty corners or creating natural partitions in large rooms. Its vibrant yellow-green leaves sway beautifully, bringing a sense of movement and calm. This palm is also safe for pets, making it one of the best choices for animal-friendly households. Although it requires slightly more maintenance than smaller plants, the Areca Palm rewards owners with impressive size, beauty, and air-cleaning power. Its tropical charm and graceful growth habit make it a favorite among indoor plant enthusiasts.",
+    "image": "https://images.unsplash.com/photo-1614594975660-8625995f7dbd",
+    "providerName": "UrbanGreen Studio"
+  },
+
+  {
+    "plantId": 7,
+    "plantName": "Rubber Plant",
+    "category": "Indoor Decorative",
+    "price": 28,
+    "rating": 4.7,
+    "availableStock": 14,
+    "careLevel": "Medium",
+    "description": "The Rubber Plant, also called Ficus elastica, is a bold indoor plant known for its large, glossy, deep-green leaves. Its strong vertical growth makes it a fantastic statement plant for living rooms, hallways, and offices. Rubber Plants thrive in bright, indirect light and require moderate watering, allowing the soil to dry slightly between waterings. They are valued for their aesthetic appeal and their ability to improve indoor air quality. With proper care, a Rubber Plant can grow into a small indoor tree, adding height and sophistication to any space. The plant's leaves naturally collect dust, so occasional cleaning helps maintain their shine. While it prefers consistent conditions, it adapts well to typical indoor environments. Its dramatic foliage and modern look have made it increasingly popular in interior design. Whether used as a focal point or part of a plant collection, the Rubber Plant adds depth, freshness, and elegance to any space.",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "providerName": "UrbanGreen Studio"
+  },
+
+  {
+    "plantId": 8,
+    "plantName": "Pothos Golden",
+    "category": "Trailing Plant",
+    "price": 16,
+    "rating": 4.8,
+    "availableStock": 18,
+    "careLevel": "Easy",
+    "description": "Pothos Golden is one of the easiest and most rewarding houseplants for beginners and experienced plant owners alike. Known for its gorgeous heart-shaped leaves with golden variegation, it grows rapidly and can trail beautifully from shelves, hanging baskets, or tabletops. Pothos can thrive in low, medium, or bright indirect light, making it extremely versatile for different indoor spaces. It requires minimal watering—once the soil is dry—and bounces back very well from neglect. As a natural air purifier, Pothos Golden helps remove toxins and contributes to a fresher indoor environment. You can easily trim and propagate it in water to create new plants. Its vibrant, flowing vines add life and movement to a room, creating a cozy and dynamic aesthetic. Because it is both low-maintenance and visually appealing, Pothos Golden is a favorite plant for decorating homes, dorm rooms, and offices.",
+    "image": "https://images.unsplash.com/photo-1587502536263-9293c832e23d",
+    "providerName": "UrbanGreen Studio"
+  },
+
+  {
+    "plantId": 9,
+    "plantName": "Calathea Orbifolia",
+    "category": "Ornamental Foliage",
+    "price": 30,
+    "rating": 4.6,
+    "availableStock": 9,
+    "careLevel": "Medium",
+    "description": "Calathea Orbifolia is a stunning foliage plant known for its large, round leaves adorned with elegant silver stripes. It brings an artistic, ornamental quality to any indoor setting. This plant thrives in medium to bright indirect light and prefers high humidity, mimicking its native tropical environment. While it requires more attentive care than simpler plants, its beauty makes the effort worthwhile. Calathea Orbifolia is non-toxic and pet-friendly, making it safe for households with animals. Keeping the soil moist but not soggy, maintaining humidity, and avoiding harsh sunlight are key to its healthy growth. The plant's subtle leaf movements throughout the day reflect its natural rhythm, adding a unique charm. With the right environment, Calathea Orbifolia becomes a centerpiece that enhances the sophistication of living rooms, bedrooms, or office spaces. Its combination of grace, texture, and luxurious appearance makes it highly desired among plant collectors.",
+    "image": "https://images.unsplash.com/photo-1533657586623-8f933a2cd82d",
+    "providerName": "UrbanGreen Studio"
+  },
+
+  {
+    "plantId": 10,
+    "plantName": "Spider Plant",
+    "category": "Air Purifier",
+    "price": 15,
+    "rating": 4.8,
+    "availableStock": 20,
+    "careLevel": "Easy",
+    "description": "The Spider Plant is a classic, beginner-friendly indoor plant admired for its long arching leaves and the adorable baby plantlets it produces. Known for being extremely adaptable, it thrives in both low and bright indirect light, making it suitable for almost any indoor location. Spider Plants are excellent air purifiers, removing toxins such as carbon monoxide and xylene, and contributing to a healthier home environment. They require light watering and well-drained soil, rebounding quickly from occasional neglect. The plant’s cascading growth habit makes it a top choice for hanging baskets or elevated shelves. Spider Plants are also non-toxic to pets, making them safe for households with cats or dogs. Because they propagate so easily, one healthy plant can produce dozens of new ones. Their resilience, air-cleaning ability, and lively appearance make Spider Plants a timeless favorite among indoor gardeners.",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "providerName": "UrbanGreen Studio"
+  }
+
+   
+]

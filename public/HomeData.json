@@ -1,0 +1,74 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "The Snake Plant, also known as Sansevieria or Mother-in-Law’s Tongue, is one of the most resilient houseplants you can bring into your home. It thrives in a wide variety of indoor environments and requires minimal care, making it a perfect choice for beginners or busy plant lovers. This plant is widely recognized for its exceptional air-purifying qualities, helping reduce toxins such as formaldehyde and benzene. Its tall, upright leaves have a striking green color with yellow or light-green variegation, adding a modern look to any living room, office, or bedroom. Snake Plants tolerate low light, bright light, and even neglect—needing water only when the soil becomes dry. Because it survives well in tight spaces and grows slowly, it’s an ideal plant for small apartments or desks. Beyond aesthetics, it also contributes to improved indoor air quality, especially at night, as it continues releasing oxygen in the dark.",
+    "image": "https://i.pinimg.com/736x/51/8b/ff/518bff6c0ce9c7a2dcf3649523da7388.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Monstera Deliciosa",
+    "category": "Indoor Decorative",
+    "price": 32,
+    "rating": 4.9,
+    "availableStock": 12,
+    "careLevel": "Medium",
+    "description": "Monstera Deliciosa, often called the Swiss Cheese Plant, is a stunning tropical plant known for its large glossy leaves with natural holes and splits. It brings an exotic feel to any interior space. Originating from rainforests, it thrives in bright, indirect light and slightly moist soil. Its impressive size and lush foliage make it a highly decorative indoor plant. Monstera also helps purify indoor air by filtering toxins. With proper care and support, it grows quickly and can climb, adding beautiful vertical greenery. Although it prefers humidity, it adapts well to normal indoor conditions. With occasional watering and leaf cleaning, it stays healthy and vibrant.",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Aloe Vera",
+    "category": "Medicinal",
+    "price": 14,
+    "rating": 4.7,
+    "availableStock": 20,
+    "careLevel": "Easy",
+    "description": "Aloe Vera is a timeless medicinal plant valued for its healing gel-filled leaves. This succulent thrives in bright light and tolerates dry indoor environments. Its gel is widely used for soothing burns, skincare, and natural remedies. Aloe requires very little watering and grows best in well-drained soil. Its minimal needs make it perfect for desks, shelves, and windowsills. Aloe also produces offsets that can be used to grow new plants. Its fresh green color and practical benefits make it an excellent indoor plant for both beauty and health.",
+    "image": "https://i.pinimg.com/736x/51/8b/ff/518bff6c0ce9c7a2dcf3649523da7388.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 4,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 22,
+    "rating": 4.8,
+    "availableStock": 17,
+    "careLevel": "Easy",
+    "description": "The ZZ Plant is famous for being almost unkillable, making it the perfect choice for beginners and busy owners. It thrives in extremely low-light conditions and needs only occasional watering. Its glossy, dark-green leaves add a luxurious, modern look to any interior. The plant grows upright, requires very little maintenance, and acts as a natural air purifier. Its resilience and beauty have made it a staple in homes, offices, and commercial spaces.",
+    "image": "https://i.pinimg.com/736x/51/8b/ff/518bff6c0ce9c7a2dcf3649523da7388.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 5,
+    "plantName": "Peace Lily",
+    "category": "Flowering",
+    "price": 25,
+    "rating": 4.9,
+    "availableStock": 10,
+    "careLevel": "Medium",
+    "description": "The Peace Lily is a classic indoor flowering plant admired for its graceful white blooms and lush green foliage. It thrives in low to medium light and prefers consistently moist soil. Peace Lilies are strong air purifiers, eliminating toxins from indoor environments. Their elegant flowers appear throughout the year, adding a calm and refreshing feel to any room. The plant is easy to care for, bouncing back quickly even when underwatered. Its beauty and air-cleaning qualities make it a favorite in both homes and offices.",
+    "image": "https://i.pinimg.com/736x/51/8b/ff/518bff6c0ce9c7a2dcf3649523da7388.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 6,
+    "plantName": "Areca Palm",
+    "category": "Indoor Tree",
+    "price": 40,
+    "rating": 4.8,
+    "availableStock": 8,
+    "careLevel": "Medium",
+    "description": "Areca Palm is a stunning indoor palm tree known for its soft, feathery fronds that create a refreshing, tropical feel indoors. It thrives in bright indirect light and enjoys lightly moist soil. This palm is also safe for pets and acts as an effective air purifier. Areca Palm grows into a full, lush shape that is perfect for filling empty corners or adding height to interior spaces. Its tropical charm and elegant movement make it one of the most popular indoor palm varieties.",
+    "image": "https://i.pinimg.com/736x/51/8b/ff/518bff6c0ce9c7a2dcf3649523da7388.jpg",
+    "providerName": "UrbanGreen Studio"
+  }
+]

@@ -1,13 +1,16 @@
+
 import { createBrowserRouter } from "react-router";
-import HomeLayout from "../layouts/HomeLayout";
-import CategoryNews from "../pages/CategoryNews";
-import Home from "../pages/Home";
-import Login from "../pages/Login";
-import Register from "../pages/Register";
-import AuthLayout from "../layouts/AuthLayout";
-import NewsDetails from "../pages/NewsDetails";
+import HomeLayout from "../Layouts/HomeLayout";
+import Home from "../Pages/Home";
+import Login from "../Pages/Login";
+import Register from "../Pages/Register";
+import CategoryNews from "../Pages/CategoryNews";
+import Loading from "../Pages/Loading";
+import AuthLayout from "../Layouts/AuthLayout";
 import PrivateRoute from "../Provider/PrivateRoute";
-import Loading from "../pages/Loading";
+import NewsDetails from "../Pages/NewsDetails";
+
+ 
 
 const router = createBrowserRouter([
   {
@@ -19,9 +22,17 @@ const router = createBrowserRouter([
         element: <Home></Home>,
       },
       {
-        path: "/category/:id",
+         path: "/login",
+         Component: Login
+      },
+      {
+         path: "/signup",
+         Component: Register
+      },
+      {
+        path: "/category/:plantId",
         element: <CategoryNews></CategoryNews>,
-        loader: () => fetch("/news.json"),
+        loader: () => fetch("/treeData.json"),
          hydrateFallbackElement: <Loading></Loading>
       },
     ],
@@ -41,11 +52,11 @@ const router = createBrowserRouter([
     ]
   },
   {
-    path: "/news-details/:id",
+    path: "/news-details/:plantId",
     element: <PrivateRoute>
                <NewsDetails></NewsDetails>
             </PrivateRoute>,
-    loader: () => fetch('/news.json'),
+    loader: () => fetch('/treeData.json'),
     hydrateFallbackElement: <Loading></Loading>
   },
   {

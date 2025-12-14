@@ -6,11 +6,12 @@ const NewsDetailsCard = ({news}) => {
    // console.log(news)
     return (
         <div className='space-y-5'>
-            <img className='w-full h-full' src={news.image_url} alt="" />
+            <img className='w-full h-full' src={news.image} alt="" />
            <h2 className='text-2xl'>{news.title}</h2>
            <p>{news.details}</p>
-           <Link to={`/category/${news.category_id}`}
-            className='btn btn-secondary'>Back to Category</Link>
+           <p>{news.description}</p>
+           <Link to={`/category/${news.plantId}`}
+            className='btn hover:bg-amber-800 hover:text-amber-50'>Go back</Link>
         </div>
     );
 };

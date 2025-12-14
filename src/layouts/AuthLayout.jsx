@@ -1,7 +1,9 @@
  
 import React from 'react';
-import Navbar from '../components/Navbar';
+ 
 import { Outlet } from 'react-router';
+import Footer from '../Component/homelayout/Footer';
+import Navbar from '../Component/Navbar';
 
 const AuthLayout = () => {
     return (
@@ -12,6 +14,9 @@ const AuthLayout = () => {
             <main className='w-11/12 mx-auto py-5'>
                <Outlet></Outlet>
             </main>
+            <footer>
+                <Footer></Footer>
+            </footer>
         </div>
     );
 };

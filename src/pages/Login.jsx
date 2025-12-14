@@ -1,6 +1,7 @@
 import React, { use, useState } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router';
 import { AuthContext } from '../Provider/AuthProvider';
+import SocialLogin from '../Component/homelayout/SocialLogin';
 
 const Login = () => {
     const [error, setError] = useState();
@@ -48,6 +49,7 @@ const Login = () => {
                         <button type='submit' className="btn btn-neutral mt-4">Login</button>
                         <p className='text-center text-primary font-semibold'>Don't have an account ? <Link to="/auth/register" className='text-secondary hover:underline'>Register</Link></p>
                     </fieldset>
+                     <SocialLogin></SocialLogin>
                 </form>
             </div>
         </div>
